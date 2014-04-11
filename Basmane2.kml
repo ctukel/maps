@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Basmane</name>
+		<Placemark>
+			<styleUrl>#icon-seq-0-0</styleUrl>
+			<name>Uşakizade Sadıkbey Oteli
+</name>
+			<Point>
+				<coordinates>27.142662405967712,38.42170492778813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-1</styleUrl>
+			<name>Hatuniye Camisi</name>
+			<Point>
+				<coordinates>27.14119255542755,38.42042726628043,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-2</styleUrl>
+			<name>Dönertaş Sebili
+</name>
+			<Point>
+				<coordinates>27.141825556755066,38.42046509211019,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-3</styleUrl>
+			<name>Altınpark kazı alanı
+</name>
+			<Point>
+				<coordinates>27.144287824630737,38.42069414810074,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-4</styleUrl>
+			<name>Fettah Camii
+</name>
+			<Point>
+				<coordinates>27.14320421218872,38.42107450552647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-5</styleUrl>
+			<name>Muzafferiyet-i Milliye Fırını
+</name>
+			<Point>
+				<coordinates>27.143858671188354,38.42087697208573,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FF8277-2</styleUrl>
+			<name>Eski sokaklar / Yahudihaneler
+</name>
+			<LineString>
+				<tessellate>0</tessellate>
+				<coordinates>27.140181362628937,38.42036002031191,0.0 27.140119671821594,38.41981574595049,0.0 27.139889001846313,38.41976320959818,0.0 27.140028476715088,38.41935972913904,0.0 27.14094579219818,38.420107847372456,0.0 27.14094579219818,38.42033060018101,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FF8277-2</styleUrl>
+			<name>Oteller Sokağı
+</name>
+			<LineString>
+				<tessellate>0</tessellate>
+				<coordinates>27.14146614074707,38.4216082633985,0.0 27.14320957660675,38.421793186465706,0.0 27.143531441688538,38.42188144503543,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-6</styleUrl>
+			<name>Kadın Müzesi
+</name>
+			<Point>
+				<coordinates>27.142329812049866,38.42092320336496,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-7</styleUrl>
+			<name>Radyo Müzesi ve Demokrosi Müzesi</name>
+			<description><![CDATA[Evin önündeki duvar Kadifekaleden Basmaneye uzanan Roma surlarının parçasıdır ve başka yerde örneği yoktur. Sarmaşıklı ev olarak bilinmesine rağmen restorasyon sırasında sarmaşıklar kesilmiştir. http://www.egetelgraf.com/index2.php?gazete=09.12.2013&sayfa=2]]></description>
+			<Point>
+				<coordinates>27.14394986629486,38.42016248491737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-8</styleUrl>
+			<name>Aya Vukla Kilisesi
+</name>
+			<Point>
+				<coordinates>27.147586941719055,38.42148638202716,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FF8277-2</styleUrl>
+			<name>Ağaçlı Yol
+</name>
+			<LineString>
+				<tessellate>0</tessellate>
+				<coordinates>27.143568992614746,38.421894053393736,0.0 27.143799662590027,38.42078871228867,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-9</styleUrl>
+			<name>Anafartalar Polis Karakolu
+</name>
+			<Point>
+				<coordinates>27.143644094467163,38.4213056609946,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-10</styleUrl>
+			<name>Kadı Hamamı
+</name>
+			<Point>
+				<coordinates>27.140119671821594,38.418258552251324,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-11</styleUrl>
+			<name>Akhisar / Manisa Oteli
+</name>
+			<Point>
+				<coordinates>27.138832211494446,38.42033060018101,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-12</styleUrl>
+			<name>Tevfik Paşa Hamamı</name>
+			<Point>
+				<coordinates>27.138124108314514,38.4203978461769,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-13</styleUrl>
+			<name>Hasan Hoca Camisi
+</name>
+			<Point>
+				<coordinates>27.137904167175293,38.42043567202209,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-14</styleUrl>
+			<name>Namazgah</name>
+			<Point>
+				<coordinates>27.140028476715088,38.41848551374649,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FF8277-2</styleUrl>
+			<name>Tarihi Evler
+</name>
+			<LineString>
+				<tessellate>0</tessellate>
+				<coordinates>27.14375138282776,38.4210955196905,0.0 27.144775986671448,38.42126363278268,0.0 27.144765257835388,38.421351891999436,0.0 27.147061228752136,38.42155362694711,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-15</styleUrl>
+			<name>Polis Anı Evi
+</name>
+			<Point>
+				<coordinates>27.137383818626404,38.42047770071574,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-16</styleUrl>
+			<name>Sebatay Sevi Evi
+</name>
+			<Point>
+				<coordinates>27.137131690979004,38.418636821013806,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-17</styleUrl>
+			<name>Emir Sultan Hazretleri Türbesi
+</name>
+			<Point>
+				<coordinates>27.143386602401733,38.41903610255872,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-18</styleUrl>
+			<name>Altınordu spor kulübü
+</name>
+			<Point>
+				<coordinates>27.14183360338211,38.41910545123369,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-19</styleUrl>
+			<name>Kıllıoğlu Hamamı
+</name>
+			<Point>
+				<coordinates>27.143375873565674,38.42068153953301,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-seq-0-20</styleUrl>
+			<name>Kumrulu Mescit</name>
+			<description><![CDATA[İzmir’in bilinen en eski mesciti  (Hicri 1170) http://www.egetelgraf.com/admin/galeri/1e9bc585df2402-et-02-r.jpg]]></description>
+			<Point>
+				<coordinates>27.14472770690918,38.421242618667556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-seq-0-0'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=A|FF0000|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-2'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=C|FF8000|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-1'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=B|FF4000|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-4'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=E|FFFF00|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-3'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=D|FFBF00|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-6'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=G|80FF00|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-5'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=F|BFFF00|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-14'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=O|007FFF|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-FF8277-2'>
+			<LineStyle>
+				<color>ff7782FF</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		<Style id='icon-seq-0-8'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=I|00FF00|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-15'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=P|0040FF|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-7'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=H|40FF00|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-12'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=M|00FFFF|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-13'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=N|00BFFF|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-9'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=J|00FF40|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-18'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=S|7F00FF|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-19'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=T|BF00FF|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-16'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=Q|0000FF|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-17'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=R|4000FF|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-20'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=U|FF00FF|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-11'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=L|00FFBF|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-seq-0-10'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=K|00FF80|000000</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

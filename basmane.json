@@ -1,0 +1,443 @@
+basmane_geoSON = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Uşakizade Sadıkbey Oteli",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.142662405967712,
+          38.42170492778813,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hatuniye Camisi",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.14119255542755,
+          38.42042726628043,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dönertaş Sebili",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.141825556755066,
+          38.42046509211019,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Altınpark kazı alanı",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.144287824630737,
+          38.42069414810074,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fettah Camii",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.14320421218872,
+          38.42107450552647,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Muzafferiyet-i Milliye Fırını",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.143858671188354,
+          38.42087697208573,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eski sokaklar / Yahudihaneler",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.140181362628937,
+            38.42036002031191,
+            0
+          ],
+          [
+            27.140119671821594,
+            38.41981574595049,
+            0
+          ],
+          [
+            27.139889001846313,
+            38.41976320959818,
+            0
+          ],
+          [
+            27.140028476715088,
+            38.41935972913904,
+            0
+          ],
+          [
+            27.14094579219818,
+            38.420107847372456,
+            0
+          ],
+          [
+            27.14094579219818,
+            38.42033060018101,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oteller Sokağı",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.14146614074707,
+            38.4216082633985,
+            0
+          ],
+          [
+            27.14320957660675,
+            38.421793186465706,
+            0
+          ],
+          [
+            27.143531441688538,
+            38.42188144503543,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kadın Müzesi",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.142329812049866,
+          38.42092320336496,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Radyo Müzesi ve Demokrosi Müzesi",
+        "Description": "Evin önündeki duvar Kadifekaleden Basmaneye uzanan Roma surlarının parçasıdır ve başka yerde örneği yoktur. Sarmaşıklı ev olarak bilinmesine rağmen restorasyon sırasında sarmaşıklar kesilmiştir. http://www.egetelgraf.com/index2.php?gazete=09.12.2013&sayfa=2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.14394986629486,
+          38.42016248491737,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Aya Vukla Kilisesi",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.147586941719055,
+          38.42148638202716,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ağaçlı Yol",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.143568992614746,
+            38.421894053393736,
+            0
+          ],
+          [
+            27.143799662590027,
+            38.42078871228867,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Anafartalar Polis Karakolu",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.143644094467163,
+          38.4213056609946,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kadı Hamamı",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.140119671821594,
+          38.418258552251324,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Akhisar / Manisa Oteli",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.138832211494446,
+          38.42033060018101,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tevfik Paşa Hamamı",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.138124108314514,
+          38.4203978461769,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hasan Hoca Camisi",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.137904167175293,
+          38.42043567202209,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Namazgah",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.140028476715088,
+          38.41848551374649,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tarihi Evler",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.14375138282776,
+            38.4210955196905,
+            0
+          ],
+          [
+            27.144775986671448,
+            38.42126363278268,
+            0
+          ],
+          [
+            27.144765257835388,
+            38.421351891999436,
+            0
+          ],
+          [
+            27.147061228752136,
+            38.42155362694711,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Polis Anı Evi",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.137383818626404,
+          38.42047770071574,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sebatay Sevi Evi",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.137131690979004,
+          38.418636821013806,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Emir Sultan Hazretleri Türbesi",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.143386602401733,
+          38.41903610255872,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Altınordu spor kulübü",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.14183360338211,
+          38.41910545123369,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kıllıoğlu Hamamı",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.143375873565674,
+          38.42068153953301,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kumrulu Mescit",
+        "Description": "İzmir’in bilinen en eski mesciti  (Hicri 1170) http://www.egetelgraf.com/admin/galeri/1e9bc585df2402-et-02-r.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.14472770690918,
+          38.421242618667556,
+          0
+        ]
+      }
+    }
+  ]
+}

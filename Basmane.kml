@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Basmane</name>
+		<NetworkLink>
+			<name>Konak / İzmir / Turkey</name>
+			<Link>
+				<href>http://mapsengine.google.com/map/kml?mid=zdeWNN-cBi54.kdz_SaMtRFCs&amp;lid=zdeWNN-cBi54.kkLfJ6l_9hxA</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
